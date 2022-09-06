@@ -1,0 +1,180 @@
+PACKAGE NAME: base-passwd
+PACKAGE VERSION: 3.5.52
+RECIPE NAME: base-passwd
+LICENSE: GPL-2.0-only
+
+PACKAGE NAME: busybox
+PACKAGE VERSION: 1.35.0
+RECIPE NAME: busybox
+LICENSE: GPL-2.0-only & bzip2-1.0.4
+
+PACKAGE NAME: busybox-syslog
+PACKAGE VERSION: 1.35.0
+RECIPE NAME: busybox
+LICENSE: GPL-2.0-only & bzip2-1.0.4
+
+PACKAGE NAME: busybox-udhcpc
+PACKAGE VERSION: 1.35.0
+RECIPE NAME: busybox
+LICENSE: GPL-2.0-only & bzip2-1.0.4
+
+PACKAGE NAME: dosfstools
+PACKAGE VERSION: 4.2
+RECIPE NAME: dosfstools
+LICENSE: GPL-3.0-only
+
+PACKAGE NAME: e2fsprogs-mke2fs
+PACKAGE VERSION: 1.46.5
+RECIPE NAME: e2fsprogs
+LICENSE: GPL-2.0-only
+
+PACKAGE NAME: eudev
+PACKAGE VERSION: 3.2.11
+RECIPE NAME: eudev
+LICENSE: GPL-2.0-or-later & LGPL-2.1-or-later
+
+PACKAGE NAME: glibc
+PACKAGE VERSION: 2.36
+RECIPE NAME: glibc
+LICENSE: GPL-2.0-only & LGPL-2.1-only
+
+PACKAGE NAME: grub
+PACKAGE VERSION: 2.06
+RECIPE NAME: grub
+LICENSE: GPL-3.0-only
+
+PACKAGE NAME: grub-common
+PACKAGE VERSION: 2.06
+RECIPE NAME: grub
+LICENSE: GPL-3.0-only
+
+PACKAGE NAME: grub-editenv
+PACKAGE VERSION: 2.06
+RECIPE NAME: grub
+LICENSE: GPL-3.0-only
+
+PACKAGE NAME: initramfs-framework-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: initramfs-framework
+LICENSE: MIT
+
+PACKAGE NAME: initramfs-module-install
+PACKAGE VERSION: 1.0
+RECIPE NAME: initramfs-module-install
+LICENSE: MIT
+
+PACKAGE NAME: initramfs-module-install-efi
+PACKAGE VERSION: 1.0
+RECIPE NAME: initramfs-module-install-efi
+LICENSE: MIT
+
+PACKAGE NAME: initramfs-module-rootfs
+PACKAGE VERSION: 1.0
+RECIPE NAME: initramfs-framework
+LICENSE: MIT
+
+PACKAGE NAME: initramfs-module-setup-live
+PACKAGE VERSION: 1.0
+RECIPE NAME: initramfs-module-setup-live
+LICENSE: MIT
+
+PACKAGE NAME: initramfs-module-udev
+PACKAGE VERSION: 1.0
+RECIPE NAME: initramfs-framework
+LICENSE: MIT
+
+PACKAGE NAME: kmod
+PACKAGE VERSION: 30
+RECIPE NAME: kmod
+LICENSE: GPL-2.0-or-later & LGPL-2.1-or-later
+
+PACKAGE NAME: ldconfig
+PACKAGE VERSION: 2.36
+RECIPE NAME: glibc
+LICENSE: GPL-2.0-only & LGPL-2.1-only
+
+PACKAGE NAME: libcomerr
+PACKAGE VERSION: 1.46.5
+RECIPE NAME: e2fsprogs
+LICENSE: GPL-2.0-only & LGPL-2.0-only & BSD-3-Clause & MIT
+
+PACKAGE NAME: libe2p
+PACKAGE VERSION: 1.46.5
+RECIPE NAME: e2fsprogs
+LICENSE: GPL-2.0-only & LGPL-2.0-only & BSD-3-Clause & MIT
+
+PACKAGE NAME: libext2fs
+PACKAGE VERSION: 1.46.5
+RECIPE NAME: e2fsprogs
+LICENSE: GPL-2.0-only & LGPL-2.0-only & BSD-3-Clause & MIT
+
+PACKAGE NAME: libkmod
+PACKAGE VERSION: 30
+RECIPE NAME: kmod
+LICENSE: LGPL-2.1-or-later
+
+PACKAGE NAME: liblzma
+PACKAGE VERSION: 5.2.5
+RECIPE NAME: xz
+LICENSE: PD
+
+PACKAGE NAME: ncurses-libtinfo
+PACKAGE VERSION: 6.3+20220423
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-terminfo-base
+PACKAGE VERSION: 6.3+20220423
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: parted
+PACKAGE VERSION: 3.5
+RECIPE NAME: parted
+LICENSE: GPL-3.0-or-later
+
+PACKAGE NAME: readline
+PACKAGE VERSION: 8.1.2
+RECIPE NAME: readline
+LICENSE: GPL-3.0-or-later
+
+PACKAGE NAME: run-postinsts
+PACKAGE VERSION: 1.0
+RECIPE NAME: run-postinsts
+LICENSE: MIT
+
+PACKAGE NAME: udev-extraconf
+PACKAGE VERSION: 1.1
+RECIPE NAME: udev-extraconf
+LICENSE: MIT
+
+PACKAGE NAME: update-alternatives-opkg
+PACKAGE VERSION: 0.5.0
+RECIPE NAME: opkg-utils
+LICENSE: GPL-2.0-or-later
+
+PACKAGE NAME: update-rc.d
+PACKAGE VERSION: 0.8
+RECIPE NAME: update-rc.d
+LICENSE: GPL-2.0-or-later
+
+PACKAGE NAME: util-linux-blkid
+PACKAGE VERSION: 2.38.1
+RECIPE NAME: util-linux
+LICENSE: GPL-2.0-or-later & LGPL-2.1-or-later & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-libblkid
+PACKAGE VERSION: 2.38.1
+RECIPE NAME: util-linux
+LICENSE: LGPL-2.1-or-later
+
+PACKAGE NAME: util-linux-libuuid
+PACKAGE VERSION: 2.38.1
+RECIPE NAME: util-linux-libuuid
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: zlib
+PACKAGE VERSION: 1.2.12
+RECIPE NAME: zlib
+LICENSE: Zlib
+
