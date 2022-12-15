@@ -1,0 +1,129 @@
+﻿Copyright © Intel Corporation 2012 – 2017. All Rights Reserved.
+Intel Software License Agreement 
+IMPORTANT - READ BEFORE COPYING, INSTALLING OR USING. 
+1.	DEFINITIONS.
+
+“Agreement” means this Software License Agreement.
+
+"Open Source Software" means any software that requires as a condition of use, 
+modification, and/or distribution that such Software or other software incorporated into, 
+derived from, or distributed with such Software:
+i)	be disclosed or distributed in source code form; 
+ii)	be licensed by the user to third parties for the purpose of making and/or distributing 
+derivative works; or
+iii)	be redistributable at no charge.
+
+Open Source Software includes, without limitation, Software licensed or distributed under 
+any of the following licenses or distribution models, or licenses or distribution models 
+substantially similar to any of the following:  
+   a)	GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), 
+   b)	the Artistic License (e.g., PERL), 
+   c)	the Mozilla Public License,
+   d)	the Netscape Public License,
+   e)	the Sun Community Source License (SCSL),
+   f)	the Sun Industry Source License (SISL),
+   g)	the Apache Software license, and 
+   h)	the Common Public License (CPL).
+
+“Software” means the downloaded Intel Corporation (“Intel”) software  and associated 
+materials or documentation.  Software may contain the software or other property of third 
+party suppliers, some of which may be identified in, and licensed in accordance with, an 
+enclosed "license.txt" file or other text or file.
+
+“SSD” means solid state drive.
+
+“You” means a business entity or an end user, as applicable, who uses the Software.
+
+2.	Do not use, copy, or install this Software until You have carefully read the following terms 
+and conditions. By using, copying, or installing, the Software, You agree to the terms and 
+conditions of this Agreement. If You do not agree to comply with the terms and conditions of 
+this Agreement, do not use, copy, or install the Software.
+
+3.	LICENSE. This Software is licensed for use only in conjunction with Intel SSD products.  
+Use of the Software in conjunction with non-Intel SSD products is not licensed hereunder. 
+
+A.	If You are an end user, subject to the terms of this Agreement, Intel grants to You a 
+nonexclusive, nontransferable, non-sublicensable, worldwide, fully paid-up license under 
+Intel's copyrights to:
+(1)	reproduce the Software onto a single computer or multiple computers for Your 
+personal, noncommercial use; and 
+(2)	reproduce the Software to make appropriate back-up copies for use in accordance 
+with A(1) above.
+B.	If you are a business entity, subject to the terms of this Agreement, Intel grants to You a 
+nonexclusive, nontransferable, non-sublicensable, worldwide, fully paid-up license under 
+Intel's copyrights to:
+(1)	reproduce the Software onto a single server or multiple servers for Your internal use; 
+(2)	distribute the Software from Your internal servers onto individual devices used by 
+Your employees, such as laptops, tablets, or desktop systems; and 
+(3)	reproduce the Software to make appropriate back-up copies for use in accordance 
+with B(1) and B(2) above.
+
+4 	RESTRICTIONS. Whether You are a business entity or an end user, You will not:
+a)	prepare derivative works, publicly perform, publicly display, use, make, rent, sell, 
+offer to distribute any part of the Software, and You agree to prevent unauthorized copying 
+of the Software;and,
+b)	reverse engineer, decompile, or disassemble the Software;and, 
+c)	otherwise assign, lease, or in any other way transfer or disclose Software to any third 
+party, except as set forth herein; and
+d)	subject the Software, in whole or in part, to any license obligations of Open Source 
+Software including without limitation combining or distributing the Software with Open 
+Source Software in a manner that subjects the Software or any portion of the Software 
+provided by Intel hereunder to any license obligations of such Open Source Software. 
+
+Except as otherwise expressly provided, Intel grants no express or implied right or license 
+under Intel patents, copyrights, trademarks, or other intellectual property rights directly or by 
+implication, inducement, estoppel, or otherwise.
+5	OWNERSHIP OF SOFTWARE AND COPYRIGHTS. Title to all copies of the Software 
+remains with Intel or its suppliers. The Software is copyrighted and protected by the laws of 
+the United States and other countries, and international treaty provisions. You may not 
+remove any copyright notices from the Software. Intel may make changes to the Software, 
+or to materials referenced therein, at any time and without notice, but is not obligated to 
+support or update the Software. Intel has the right to inspect or have an independent auditor 
+inspect Your relevant records to verify Your compliance with the terms and conditions of this 
+Agreement.
+
+6	ENTIRE AGREEMENT.  This Agreement contains the complete and exclusive statement of 
+the agreement between You and Intel and supersedes all proposals, oral or written, and all 
+other communications relating to the subject matter of this Agreement.  Only a written 
+instrument duly executed by authorized representatives of Intel and You may modify this 
+Agreement.
+
+7	LIMITED MEDIA WARRANTY.  If the Software has been delivered by Intel on physical 
+media, Intel warrants the media to be free from material physical defects for a period of 
+ninety (90) days after delivery by Intel. If such a defect is found, return the media to Intel for 
+replacement or alternate delivery of the Software as Intel may select.
+
+8	EXCLUSION OF OTHER WARRANTIES. EXCEPT AS PROVIDED ABOVE, THE 
+SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY 
+OF ANY KIND, INCLUDING WARRANTIES OF MERCHANTABILITY, 
+NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE.  Intel does not 
+warrant or assume responsibility for any errors, the accuracy or completeness of any 
+information, text, graphics, links or other materials contained within the Software.
+
+9	LIMITATION OF LIABILITY. IN NO EVENT WILL INTEL OR ITS SUPPLIERS BE LIABLE  
+FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOST 
+PROFITS, BUSINESS INTERRUPTION OR LOST INFORMATION) ARISING OUT OF THE 
+USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF INTEL HAS BEEN ADVISED 
+OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS PROHIBIT 
+EXCLUSION OR LIMITATION OF LIABILITY FOR IMPLIED WARRANTIES OR 
+CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT 
+APPLY TO YOU. YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM 
+JURISDICTION TO JURISDICTION.
+
+10	TERMINATION OF THIS AGREEMENT. Intel may terminate this Agreement at any time if 
+You violate its terms. Upon termination, You will immediately destroy the Software or return 
+all copies of the Software to Intel.
+
+11	APPLICABLE LAWS. Claims arising under this Agreement will be governed by the laws of 
+Delaware, excluding its principles of conflict of laws and the United Nations Convention on 
+Contracts for the Sale of Goods. You may not export the Software in violation of applicable 
+export laws and regulations. Intel is not obligated under any other agreements unless they 
+are in writing and signed by an authorized representative of Intel.
+
+12	GOVERNMENT RESTRICTED RIGHTS. The Software is provided with "RESTRICTED 
+RIGHTS." Use, duplication, or disclosure by the Government is subject to restrictions as set 
+forth in FAR52.227-14 and DFAR252.227-7013 et seq. or their successors. Use of the 
+Software by the Government constitutes acknowledgment of Intel's proprietary rights 
+therein. Contractor or Manufacturer is Intel Corporation, 2200 Mission College Blvd., Santa 
+Clara, CA 95054.
+
